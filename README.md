@@ -15,6 +15,7 @@ Leveraging deep domain expertise in sourcing and managing life insurance agents,
 * **Data Visualization:** Power BI (`Insurance_Project.pbix`)
 
 ## 📈 Dashboard Highlights
+<img width="889" height="504" alt="Screenshot 2026-07-19 180214" src="https://github.com/user-attachments/assets/611c5d84-d93e-44ae-930d-672d2fe5b309" />
 
 
 ## 📁 Repository Structure
